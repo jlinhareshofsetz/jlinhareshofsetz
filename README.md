@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou a Jéssica Linhares Hofsetz</h1>
 
-<!--
-**jlinhareshofsetz/jlinhareshofsetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Formação**  
+Estudante de Análise e Desenvolvimento de Sistemas na **Universidade La Salle - RS**  
+Foco em **Python, Ciência de Dados, Inteligência Artificial e Desenvolvimento Mobile**
+
+💼 **Interesses**  
+- Desenvolvimento de soluções baseadas em dados  
+- Aplicações com Machine Learning e automação  
+- Apps Android com banco de dados e interface amigável  
+- Projetos com impacto real na vida das pessoas
+
+🧠 **Habilidades em Aprendizado Contínuo**  
+- Python (básico a intermediário)  
+- Pandas, NumPy, Jupyter  
+- SQL (MySQL e PostgreSQL)  
+- Android Studio + Firebase (inicial)  
+- Git, GitHub e controle de versão
+
+📈 **Projetos em andamento**  
+- App Android para cadastro de clientes (projeto da faculdade)  
+- Análises com dados públicos e Big Data no e-commerce  
+- Estudo de algoritmos de IA com foco em classificação
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlinhareshofsetz&show_icons=true&theme=default" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlinhareshofsetz&layout=compact&theme=default" width="48%"/>
+</p>
+
+---
+
+### 🏅 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jlinhareshofsetz&theme=flat&column=7"/>
+</p>
+
+---
+
+### 🔗 Contatos
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/j%C3%A9ssica-linhares-hofsetz/))  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jlinhareshofsetz@gmail.com)
+
+---
+
+*Obrigada por visitar meu perfil! Estou sempre aberta a conexões, aprendizados e desafios técnicos.*
+
