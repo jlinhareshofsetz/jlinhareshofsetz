@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-linhares-hofsetz/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jlinhareshofsetz@gmail.com)
 
-<h1 align="center">Hi 👋, I'm Jéssica Linhares Hofsetz</h1>
+<h1 align="center">Hi 👋, I'm Jéssica</h1>
 
 💡 Tenho 24 anos, sou entusiasta de Qualidade de Software e Inteligência Artificial. Estou em constante evolução nas áreas de Python, HTML, CSS e Análise de Dados.
 🏕️ Escoteira — sempre alerta!
