@@ -9,7 +9,7 @@
 
 🎓 **Formação**  
 Estudante de Análise e Desenvolvimento de Sistemas na **Universidade La Salle - RS**  
-Foco em **Python, Ciência de Dados, Inteligência Artificial e Desenvolvimento Mobile**
+Foco em **Python, Ciência de Dados, Inteligência Artificial e Dados**
 
 💼 **Interesses**  
 - Desenvolvimento de soluções baseadas em dados  
