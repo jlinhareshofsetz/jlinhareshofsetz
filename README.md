@@ -9,25 +9,23 @@
 
 🎓 **Formação**  
 Estudante de Análise e Desenvolvimento de Sistemas na **Universidade La Salle - RS**  
+Estudante do Geração Caldeira **IA & Dados**  
 Foco em **Python, Ciência de Dados, Inteligência Artificial e Dados**
 
 💼 **Interesses**  
 - Desenvolvimento de soluções baseadas em dados  
 - Aplicações com Machine Learning e automação  
-- Apps Android com banco de dados e interface amigável  
 - Projetos com impacto real na vida das pessoas
 
 🧠 **Habilidades em Aprendizado Contínuo**  
 - Python (básico a intermediário)  
-- Pandas, NumPy, Jupyter  
 - SQL (MySQL e PostgreSQL)  
-- Android Studio + Firebase (inicial)  
 - Git, GitHub e controle de versão
 
 📈 **Projetos em andamento**  
 - App Android para cadastro de clientes (projeto da faculdade)  
 - Análises com dados públicos e Big Data no e-commerce  
-- Estudo de algoritmos de IA com foco em classificação
+
 
 ---
 
