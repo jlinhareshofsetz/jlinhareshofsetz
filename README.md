@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jéssica Linhares Hofsetz</h1>
-- 🏕️ Escoteira — sempre alerta!
----
+🏕️ Escoteira — sempre alerta!
 
 ### 🚀 Technologies I'm Learning or Using
 
