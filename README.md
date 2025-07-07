@@ -47,8 +47,7 @@ Foco em **Python, Ciência de Dados, Inteligência Artificial e Dados**
 ---
 
 ### 🔗 Contatos
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/j%C3%A9ssica-linhares-hofsetz/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-linhares-hofsetz/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jlinhareshofsetz@gmail.com)
 
 ---
