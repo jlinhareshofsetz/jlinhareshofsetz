@@ -24,9 +24,8 @@ A vivência no escotismo desenvolveu em mim espírito de equipe, liderança, aut
 
 🎓 **Formação**  
 Estudante de Análise e Desenvolvimento de Sistemas na **Universidade La Salle - RS**  
-Estudante de Sistema para Internet - **IFRS**
 Geração Caldeira **IA & Dados**  
-Foco em **Python, Ciência de Dados, Inteligência Artificial e Dados** **QA**
+Foco em **Python, Ciência de Dados, Inteligência Artificial e Dados** **Infraestrutura**
 
 💼 **Interesses**  
 - Desenvolvimento de soluções baseadas em dados  
