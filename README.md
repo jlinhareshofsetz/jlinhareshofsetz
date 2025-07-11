@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Jéssica</h1>
 
-💡 Tenho 24 anos, sou entusiasta de Qualidade de Software e Inteligência Artificial. Estou em constante evolução nas áreas de Python, HTML, CSS e Análise de Dados.
+💡 Tenho 24 anos, sou entusiasta de IA e Infraestrutura. Estou em constante evolução nas áreas da tecnologia
 
 🏕️ Escoteira — sempre alerta!
 A vivência no escotismo desenvolveu em mim espírito de equipe, liderança, autonomia e compromisso com a comunidade.
