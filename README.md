@@ -39,7 +39,7 @@ Foco em **Python, Ciência de Dados, Inteligência Artificial e Dados**
 
 📈 **Projetos em andamento**  
 - App Android para cadastro de clientes (projeto da faculdade)  
-- Análises com dados públicos e Big Data no e-commerce  
+- Analise de projetos simples 
 
 
 ---
