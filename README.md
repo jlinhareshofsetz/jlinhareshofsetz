@@ -7,3 +7,14 @@
 </p>
 
 ---
+
+
+💡 Tenho 25 anos e sou uma entusiasta das áreas de **Inteligência Artificial, Dados e Infraestrutura**.  
+Sou **escoteira** — e essa vivência reforçou em mim valores como **liderança, trabalho em equipe, autonomia e compromisso** com o propósito de contribuir para um mundo melhor.  
+
+Atualmente:
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade La Salle - RS  
+- 🚀 Egressa do programa **Geração Caldeira - IA & Dados**  
+- 🌱 Aprimorando meus conhecimentos em **Python, SQL e Cloud**
+
+- 
