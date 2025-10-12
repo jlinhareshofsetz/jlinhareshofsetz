@@ -17,4 +17,12 @@ Atualmente:
 - 🚀 Egressa do programa **Geração Caldeira - IA & Dados**  
 - 🌱 Aprimorando meus conhecimentos em **Python, SQL e Cloud**
 
+- ### 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlinhareshofsetz&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlinhareshofsetz&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+
+
 - 
