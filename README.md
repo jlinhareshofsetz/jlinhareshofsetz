@@ -19,7 +19,7 @@ Sou **escoteira** — essa vivência reforçou valores como **liderança, autono
 
 Atualmente:
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade La Salle – RS  
-- 🚀 Egressa do programa **Geração Caldeira – IA & Dados**  
+- 🚀 Participei do programa **Geração Caldeira – IA & Dados**  
 - 🌱 Em constante evolução nas áreas de Python, SQL, Git, Cloud e Automação
 
 ---
