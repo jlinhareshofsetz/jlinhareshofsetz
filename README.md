@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou a Jéssica Linhares</h1>
-<h3 align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de IA e Infraestrutura</h3>
+<h3 align="center">💻 Estudante de Sistemas | Entusiasta de IA </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/j%C3%A9ssica-linhares-hofsetz/">
@@ -14,13 +14,13 @@
 
 ### 💡 Sobre mim
 
-Tenho 25 anos e sou fascinada por **Inteligência Artificial, Dados e Infraestrutura**.  
-Sou **escoteira** — essa vivência reforçou valores como **liderança, autonomia, trabalho em equipe e compromisso com propósito social**.
+Tenho 25 anos e sou fascinada pela áreadeTecnologia**.  
+Sou **escoteira** — essa vivência reforçou valores como **liderança, trabalho em equipe e compromisso com propósito social**.
 
 Atualmente:
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade La Salle – RS  
-- 🚀 Participei do programa **Geração Caldeira – IA & Dados**  
-- 🌱 Em constante evolução nas áreas de Python, SQL, Git, Cloud e Automação
+- 🎓 Formanda em **Análise e Desenvolvimento de Sistemas** na Universidade La Salle – RS  
+- 🚀 Participei do programa **Geração Caldeira – IA & Dados e também Java**  
+- 🌱 Em constante evolução em Python, SQL, Git e Automação
 
 ---
 
